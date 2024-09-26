@@ -1,0 +1,151 @@
+[
+    {
+        "title": "Introduction",
+        "subtopics": [
+            {
+                "name": "What is React?",
+                "link": "/intro/what-is-react"
+            },
+            {
+                "name": "Setting Up a React Project",
+                "link": "/intro/setup"
+            },
+            {
+                "name": "JSX Overview",
+                "link": "/intro/jsx"
+            }
+        ]
+    },
+    {
+        "title": "Core Concepts",
+        "subtopics": [
+            {
+                "name": "Components and Props",
+                "link": "/core/components-props"
+            },
+            {
+                "name": "State and Lifecycle",
+                "link": "/core/state-lifecycle"
+            },
+            {
+                "name": "Handling Events",
+                "link": "/core/handling-events"
+            },
+            {
+                "name": "Conditional Rendering",
+                "link": "/core/conditional-rendering"
+            }
+        ]
+    },
+    {
+        "title": "Advanced Topics",
+        "subtopics": [
+            {
+                "name": "Hooks Overview",
+                "link": "/advanced/hooks-overview"
+            },
+            {
+                "name": "useEffect Hook",
+                "link": "/advanced/useeffect"
+            },
+            {
+                "name": "Custom Hooks",
+                "link": "/advanced/custom-hooks"
+            },
+            {
+                "name": "Context API",
+                "link": "/advanced/context-api"
+            }
+        ]
+    },
+    {
+        "title": "State Management",
+        "subtopics": [
+            {
+                "name": "Using Context for State Management",
+                "link": "/state-management/context"
+            },
+            {
+                "name": "Redux Basics",
+                "link": "/state-management/redux-basics"
+            },
+            {
+                "name": "Redux Toolkit",
+                "link": "/state-management/redux-toolkit"
+            }
+        ]
+    },
+    {
+        "title": "Routing",
+        "subtopics": [
+            {
+                "name": "React Router Basics",
+                "link": "/routing/router-basics"
+            },
+            {
+                "name": "Dynamic Routing",
+                "link": "/routing/dynamic-routing"
+            }
+        ]
+    },
+    {
+        "title": "GraphQL",
+        "subtopics": [
+            {
+                "name": "Introduction to GraphQL",
+                "link": "/graphql/intro"
+            },
+            {
+                "name": "Using Apollo Client",
+                "link": "/graphql/apollo-client"
+            }
+        ]
+    },
+    {
+        "title": "Best Practices",
+        "subtopics": [
+            {
+                "name": "Code Splitting",
+                "link": "/best-practices/code-splitting"
+            },
+            {
+                "name": "Performance Optimization",
+                "link": "/best-practices/performance"
+            },
+            {
+                "name": "Testing Components",
+                "link": "/best-practices/testing"
+            },
+            {
+                "name": "Accessibility in React",
+                "link": "/best-practices/accessibility"
+            }
+        ]
+    },
+    {
+        "title": "APIs",
+        "subtopics": [
+            {
+                "name": "Fetching Data with Fetch API",
+                "link": "/apis/fetch-api"
+            },
+            {
+                "name": "Handling Asynchronous Operations",
+                "link": "/apis/async-operations"
+            }
+        ]
+    },
+    {
+        "title": "Deployment",
+        "subtopics": [
+            {
+                "name": "Building and Deploying React Apps",
+                "link": "/deployment/build-deploy"
+            },
+            {
+                "name": "Using Continuous Integration",
+                "link": "/deployment/continuous-integration"
+            }
+        ]
+    }
+]
