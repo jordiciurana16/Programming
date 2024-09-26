@@ -1,0 +1,5 @@
+.layout {
+    display: grid;
+    grid-template-columns: 1fr 4fr; /* Sidebar ocupa 1 fracció, Main ocupa 3 */
+    gap: 20px; /* Opcional: defineix l'espai entre les columnes */
+  }
